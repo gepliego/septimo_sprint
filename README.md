@@ -5,7 +5,7 @@ Sprint siete de TripleTen
 
 El proyecto consistio en el desarrollo de una aplicación web interactiva diseñada para analizar un conjunto de datos del mercado de anuncios de venta de vehículos en los Estados Unidos. A través de este proyecto, se realiza un análisis exploratorio de datos (EDA) permitiendo visualizar tendencias y relaciones entre variables clave como el precio, el kilometraje y el tipo de vehículo.
 
-## 🎯 Objetivo del Proyecto
+## Objetivo del Proyecto
 Más allá del análisis de datos, el propósito fundamental de este trabajo fue proporcionar un entorno real para **practicar tareas habituales de ingeniería de software**. Esto incluye:
 *   Configuración y gestión de entornos virtuales.
 *   Control de versiones utilizando **Git** y **GitHub**.
@@ -13,7 +13,7 @@ Más allá del análisis de datos, el propósito fundamental de este trabajo fue
 *   Despliegue continuo en plataformas en la nube (**Render**).
 *   Escritura de código limpio y documentado siguiendo estándares de la industria.
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 *   **Python**: Lenguaje principal de desarrollo.
 *   **Pandas**: Manipulación y limpieza del conjunto de datos `vehicles_us.csv`.
 *   **Plotly**: Creación de gráficos interactivos (Histogramas y Gráficos de Dispersión).
@@ -21,7 +21,7 @@ Más allá del análisis de datos, el propósito fundamental de este trabajo fue
 *   **Render**: Servicio de hosting para el despliegue de la aplicación.
 *   **GitHub**: Repositorio y control de versiones.
 
-## 🚀 Instrucciones de Funcionamiento y Uso
+## Instrucciones de Funcionamiento y Uso
 
 ### Ejecución Local
 Si deseas replicar este trabajo en tu máquina local, sigue estos pasos:
@@ -53,7 +53,7 @@ Una vez abierta la aplicación en el navegador:
 *   **Histograma**: Haz clic en el botón "Construir histograma" para visualizar la distribución de la columna de kilometraje (`odometer`).
 *   **Gráfico de Dispersión**: Haz clic en el botón "Construir gráfico de dispersión" para analizar la relación entre el precio (`price`) y el kilometraje de los vehículos.
 
-## 🌐 Despliegue
+## Despliegue
 Este proyecto ha sido desplegado de manera profesional para que cualquier usuario pueda acceder a él sin instalar código:
 
 1.  **GitHub**: El código fuente se encuentra alojado en un repositorio público, lo que facilita la colaboración y el seguimiento de cambios.
